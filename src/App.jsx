@@ -14,7 +14,7 @@ export default class App extends Component {
     console.log("render");
     return (
       <div>
-        <h3>计数器</h3>
+        <h3>计数器1</h3>
         <p>count:{count}</p>
         <button onClick={this.handdleClick}>+</button>
       </div>
