@@ -17,6 +17,7 @@ export default class App extends Component {
         <h3>计数器1</h3>
         <p>count:{count}</p>
         <p>哈哈哈</p>
+        <div>xixixi</div>
         <button onClick={this.handdleClick}>+</button>
       </div>
     )
